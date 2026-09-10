@@ -1,0 +1,61 @@
+---
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const stories = await getCollection('stories');
+  return stories.map((entry) => ({
+    params: { id: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const base = import.meta.env.BASE_URL.replace(/\/+$/, '');
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{entry.data.title} · 我们的咪</title>
+  </head>
+  <body>
+    <article class="prose">
+      <a class="back" href={`${base}/`}>← 返回首页</a>
+      {entry.data.cover && (
+        <img class="hero-img" src={`${base}${entry.data.cover}`} alt={entry.data.title} />
+      )}
+      <h1>{entry.data.title}</h1>
+      <p class="meta">✍️ {entry.data.author} · {entry.data.date.toLocaleDateString('zh-CN')}</p>
+      <Content />
+    </article>
+
+    <style>
+      body {
+        font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+        background: #fdf6ec; color: #4a3b32;
+      }
+      .prose {
+        max-width: 720px; margin: 0 auto; padding: 40px 22px 80px;
+      }
+      .back { color: #ff8c42; text-decoration: none; font-size: .9rem; }
+      .hero-img {
+        width: 100%; border-radius: 16px; margin: 24px 0;
+        box-shadow: 0 6px 20px rgba(120, 85, 50, .15);
+      }
+      .prose h1 { font-size: 1.9rem; line-height: 1.4; }
+      .meta { color: #b09a89; margin: 10px 0 32px; font-size: .9rem; }
+    </style>
+
+    <style is:global>
+      .prose p { line-height: 2; margin: 18px 0; font-size: 1.02rem; }
+      .prose h2, .prose h3 { margin: 36px 0 12px; }
+      .prose img { max-width: 100%; border-radius: 12px; }
+      .prose blockquote {
+        border-left: 4px solid #ff8c42; background: #fff;
+        padding: 12px 18px; border-radius: 0 10px 10px 0; color: #7a6658;
+      }
+    </style>
+  </body>
+</html>
