@@ -13,3 +13,7 @@ date: 2026-09-10
 ![嘬嘬把尾巴搭上来](/images/chanshiguan/zuozuo-weiqu.jpg)
 
 给它取名嘬嘬，因为我用逗狗的声音把它带回了家。
+
+后来稍微长大了一点，感觉表情成熟了，陪我一起工作。
+
+![嘬嘬陪我一起工作](/images/chanshiguan/zuozuo-work.jpg)
