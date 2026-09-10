@@ -43,3 +43,7 @@ date: 2026-09-10
 打架打得睡着了。
 
 ![和大猫打架打得睡着了](/images/chanshiguan/xiangxiang-dajia.jpg)
+
+看上去是好朋友。其实是嘬嘬睡着后响响过来。没过多久嘬嘬就走开了。
+
+![看上去是好朋友](/images/chanshiguan/xiangxiang-haopengyou.jpg)
