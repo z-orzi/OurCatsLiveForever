@@ -59,3 +59,7 @@ date: 2026-09-10
 两只猫同化了，姿势经常一样。
 
 ![姿势同步的两只猫](/images/chanshiguan/xiangxiang-tonghua.jpg)
+
+这天赶着出门，我刚醒来两只猫都跳上床在打呼噜，或者舔毛，感觉好幸福啊。急着出门，摸了一下拍了个视频就走了。
+
+![清晨床上打呼噜和舔毛的两只猫](/images/chanshiguan/xiangxiang-xingfu.jpg)
