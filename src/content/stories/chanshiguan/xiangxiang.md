@@ -47,3 +47,7 @@ date: 2026-09-10
 看上去是好朋友。其实是嘬嘬睡着后响响过来。没过多久嘬嘬就走开了。
 
 ![看上去是好朋友](/images/chanshiguan/xiangxiang-haopengyou.jpg)
+
+带去绝育，麻醉刚醒。肥肥的脸大大的眼。
+
+![麻醉刚醒，肥肥的脸大大的眼](/images/chanshiguan/xiangxiang-jueyu.jpg)
