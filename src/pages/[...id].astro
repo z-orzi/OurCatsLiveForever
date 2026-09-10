@@ -56,6 +56,22 @@ const base = import.meta.env.BASE_URL.replace(/\/+$/, '');
         border-left: 4px solid #ff8c42; background: #fff;
         padding: 12px 18px; border-radius: 0 10px 10px 0; color: #7a6658;
       }
+
+      /* 图文成对：文字和图片一左一右交替排列 */
+      .prose .pair-r, .prose .pair-l {
+        display: flex; align-items: center; gap: 26px;
+        margin: 24px 0;
+      }
+      .prose .pair-r > p { flex: 1; margin: 0; }
+      .prose .pair-l > p { flex: 1; margin: 0; }
+      .prose .pair-l { flex-direction: row-reverse; }
+      .prose .pair-r > p.pic, .prose .pair-l > p.pic { flex: 0 0 44%; }
+      .prose .pair-r > p.pic img, .prose .pair-l > p.pic img {
+        width: 100%; height: auto; display: block;
+      }
+      @media (max-width: 640px) {
+        .prose .pair-r, .prose .pair-l { flex-direction: column; align-items: stretch; gap: 10px; }
+      }
     </style>
   </body>
 </html>
