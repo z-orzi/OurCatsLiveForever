@@ -10,4 +10,8 @@ date: 2026-09-10
 
 ![拐角遇到的小不点](/images/chanshiguan/xiangxiang-chujian.jpg)
 
+特别小，惹人怜爱。
+
+![特别小惹人怜爱的响响](/images/chanshiguan/xiangxiang-lianai.jpg)
+
 这是我的小猫，响响。因为它叫的很响。
