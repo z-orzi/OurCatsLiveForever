@@ -18,4 +18,8 @@ date: 2026-09-10
 
 ![在医院检查的响响](/images/chanshiguan/xiangxiang-yiyuan.jpg)
 
+小不点，皱巴巴，叫的可大声了，像警报。
+
+![像警报一样大叫的小不点](/images/chanshiguan/xiangxiang-jingbao.jpg)
+
 这是我的小猫，响响。因为它叫的很响。
