@@ -21,3 +21,7 @@ date: 2026-09-10
 第一次出远门回来，给它带的玩具小马。
 
 ![嘬嘬和它的玩具小马](/images/chanshiguan/zuozuo-xiaoma.jpg)
+
+很爱在外面玩。一张帅照。
+
+![嘬嘬的帅照](/images/chanshiguan/zuozuo-shuai.jpg)
