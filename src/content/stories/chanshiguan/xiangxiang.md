@@ -39,3 +39,7 @@ date: 2026-09-10
 小时候很依赖我，要挨着我睡。还要枕在我脖子上，躺在怀里。看到它走过来一倒真的忍俊不禁。
 
 ![走过来一倒躺进怀里的响响](/images/chanshiguan/xiangxiang-yidao.jpg)
+
+打架打得睡着了。
+
+![和大猫打架打得睡着了](/images/chanshiguan/xiangxiang-dajia.jpg)
