@@ -31,3 +31,7 @@ date: 2026-09-10
 ![像警报一样大叫的小不点](/images/chanshiguan/xiangxiang-jingbao.jpg)
 
 这是我的小猫，响响。因为它叫的很响。
+
+小时候很依赖我，要挨着我睡。还要枕在我脖子上，躺在怀里。看到它走过来一倒真的忍俊不禁。
+
+![走过来一倒躺进怀里的响响](/images/chanshiguan/xiangxiang-yidao.jpg)
