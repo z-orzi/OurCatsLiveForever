@@ -18,6 +18,10 @@ date: 2026-09-10
 
 ![在医院检查的响响](/images/chanshiguan/xiangxiang-yiyuan.jpg)
 
+忘说了，当时是它尾巴有点不太对，带到了医院。本来说治好了放回去，没舍得。这样它和大猫一样都是短尾巴了。大猫可能是天生的——[嘬嘬的故事在这里](../zuozuo/)。
+
+![尾巴短短的响响](/images/chanshiguan/xiangxiang-duanweiba.jpg)
+
 带回家，一小坨。
 
 ![带回家的一小坨](/images/chanshiguan/xiangxiang-yituo.jpg)
