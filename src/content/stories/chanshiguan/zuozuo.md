@@ -25,3 +25,7 @@ date: 2026-09-10
 很爱在外面玩。一张帅照。
 
 ![嘬嘬的帅照](/images/chanshiguan/zuozuo-shuai.jpg)
+
+纯美照。一般我拍的丑照比较多。
+
+![嘬嘬的美照](/images/chanshiguan/zuozuo-meizhao.jpg)
