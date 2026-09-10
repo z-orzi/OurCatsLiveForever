@@ -51,3 +51,7 @@ date: 2026-09-10
 带去绝育，麻醉刚醒。肥肥的脸大大的眼。
 
 ![麻醉刚醒，肥肥的脸大大的眼](/images/chanshiguan/xiangxiang-jueyu.jpg)
+
+很喜欢这个姿势趴着。扁扁的。
+
+![趴成一张饼的响响](/images/chanshiguan/xiangxiang-bianbian.jpg)
