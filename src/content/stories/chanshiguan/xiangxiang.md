@@ -14,4 +14,8 @@ date: 2026-09-10
 
 ![特别小惹人怜爱的响响](/images/chanshiguan/xiangxiang-lianai.jpg)
 
+带到医院检查。
+
+![在医院检查的响响](/images/chanshiguan/xiangxiang-yiyuan.jpg)
+
 这是我的小猫，响响。因为它叫的很响。
