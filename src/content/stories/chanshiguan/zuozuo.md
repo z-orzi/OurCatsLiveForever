@@ -29,3 +29,7 @@ date: 2026-09-10
 纯美照。一般我拍的丑照比较多。
 
 ![嘬嘬的美照](/images/chanshiguan/zuozuo-meizhao.jpg)
+
+爱爬铁丝网。下不来的时候手脚慌乱也很搞笑。
+
+![挂在铁丝网上下不来的嘬嘬](/images/chanshiguan/zuozuo-tiesiwang.jpg)
