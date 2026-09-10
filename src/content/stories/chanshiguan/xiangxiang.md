@@ -55,3 +55,7 @@ date: 2026-09-10
 很喜欢这个姿势趴着。扁扁的。
 
 ![趴成一张饼的响响](/images/chanshiguan/xiangxiang-bianbian.jpg)
+
+两只猫同化了，姿势经常一样。
+
+![姿势同步的两只猫](/images/chanshiguan/xiangxiang-tonghua.jpg)
