@@ -20,7 +20,9 @@ const stories = (await getCollection('stories')).sort(
       <a class="cta" href="https://github.com/z-orzi/OurCatsLiveForever/blob/main/AI_UPLOAD_GUIDE.md" target="_blank">
         ✏️ Share your cat's story
       </a>
-      <p class="lang"><a href={`${base}/`}>中文版 →</a></p>
+      <div class="lang-switch">
+        <a href={`${base}/`}>中文</a>
+      </div>
     </header>
 
     <main class="grid">
@@ -81,8 +83,14 @@ const stories = (await getCollection('stories')).sort(
         text-decoration: none; font-weight: 600; transition: transform .15s;
       }
       .cta:hover { transform: scale(1.05); }
-      .lang { margin-top: 14px; font-size: .88rem; }
-      .lang a { color: #ff8c42; text-decoration: none; }
+      .lang-switch { margin-top: 14px; }
+      .lang-switch a {
+        display: inline-block; padding: 6px 20px;
+        border: 1px solid #ffd9b8; border-radius: 999px;
+        color: #ff8c42; text-decoration: none; font-size: .88rem;
+        transition: background .15s;
+      }
+      .lang-switch a:hover { background: #fff2e5; }
       .grid {
         flex: 1;
         display: grid; gap: 14px;
