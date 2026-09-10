@@ -18,6 +18,10 @@ date: 2026-09-10
 
 ![在医院检查的响响](/images/chanshiguan/xiangxiang-yiyuan.jpg)
 
+带回家，一小坨。
+
+![带回家的一小坨](/images/chanshiguan/xiangxiang-yituo.jpg)
+
 小不点，皱巴巴，叫的可大声了，像警报。
 
 ![像警报一样大叫的小不点](/images/chanshiguan/xiangxiang-jingbao.jpg)
