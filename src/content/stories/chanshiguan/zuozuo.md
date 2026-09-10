@@ -17,3 +17,7 @@ date: 2026-09-10
 后来稍微长大了一点，感觉表情成熟了，陪我一起工作。
 
 ![嘬嘬陪我一起工作](/images/chanshiguan/zuozuo-work.jpg)
+
+第一次出远门回来，给它带的玩具小马。
+
+![嘬嘬和它的玩具小马](/images/chanshiguan/zuozuo-xiaoma.jpg)
