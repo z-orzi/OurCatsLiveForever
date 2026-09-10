@@ -22,6 +22,10 @@ date: 2026-09-10
 
 ![带回家的一小坨](/images/chanshiguan/xiangxiang-yituo.jpg)
 
+大猫看到了，震惊中。
+
+![大猫看到了，震惊中](/images/chanshiguan/xiangxiang-damao.jpg)
+
 小不点，皱巴巴，叫的可大声了，像警报。
 
 ![像警报一样大叫的小不点](/images/chanshiguan/xiangxiang-jingbao.jpg)
